@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Rayeesa Mahmood<br><br>- 🔭 I’m Computer Science Student<br>- 📚 2nd year computer science enginnering<br>- ⚡  New enthutiast.</p>
+<p align="left">I'm Rayeesa Mahmood<br><br>- 🔭 I’m Computer Science Student<br>- ⚡  New enthutiast.</p>
 
 ###
 
