@@ -15,25 +15,40 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RayeesaMahmood.RayeesaMahmood&"  />
 </div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
+👩‍💻 About Me
+I am Rayeesa Mahmood, a **Web Developer** with hands-on experience in both **frontend and backend development**. I have worked on several academic and real-world projects, gaining practical exposure to building functional and user-friendly web applications.
 
-###
+I have completed **two internships** — a **6-month internship through my college** and another **6-month remote internship at Intencode**, where I worked on real-world projects and strengthened my development skills.
 
-<h3 align="left">👩‍💻  About Me</h3>
+My primary programming language is **Java**, and I also work with **HTML, CSS, JavaScript, and Python**. I have foundational knowledge of Python and am actively exploring it further to expand my skill set.
 
-###
+Currently, I am diving into **AI-driven development and vibe coding**, and I’m eager to explore emerging technologies, improve my backend expertise, and build innovative, scalable solutions.
 
-<p align="left">I'm Rayeesa Mahmood<br><br>- 🔭 Computer Science Undergrad <br>- ⚡  Tech enthutiast.</p>
+---
 
-###
+## 🔧 Tech Stack
+
+**Languages:**  
+- Java  
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+
+**Domains:**  
+- Frontend Web Development  
+- Backend Web Development  
+
+**Currently Exploring:**  
+- Artificial Intelligence  
+- Intelligent Systems  
+- Vibe Coding  
 
 <h3 align="left">🛠 Language and tools</h3>
 
