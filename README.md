@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Rayeesa Mahmood<br><br>- 🔭 I’m Computer Science Student<br>- ⚡  New enthutiast.</p>
+<p align="left">I'm Rayeesa Mahmood<br><br>- 🔭 Computer Science Undergrad <br>- ⚡  Tech enthutiast.</p>
 
 ###
 
@@ -63,6 +63,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="netbeans logo" />
+  <img width="12" />
 </div>
 
 ###
