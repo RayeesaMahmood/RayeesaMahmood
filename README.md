@@ -22,6 +22,7 @@
 </div>
 <h1 align="center">Hey there 👋</h1>
 👩‍💻 About Me
+
 I am Rayeesa Mahmood, a **Web Developer** with hands-on experience in both **frontend and backend development**. I have worked on several academic and real-world projects, gaining practical exposure to building functional and user-friendly web applications.
 
 I have completed **two internships** — a **6-month internship through my college** and another **6-month remote internship at Intencode**, where I worked on real-world projects and strengthened my development skills.
