@@ -15,8 +15,8 @@ across backend development, product engineering, and artificial intelligence.
 <br>
 
 <a href="https://rayeesa-portfolio-xhyf.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-684477?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-684477?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/EMAIL-684477?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/rayeesa-mahmood/"><img src="https://img.shields.io/badge/LINKEDIN-684477?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:rayeesamhamood8098@gmail.com"><img src="https://img.shields.io/badge/EMAIL-684477?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
