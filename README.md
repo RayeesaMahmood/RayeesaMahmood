@@ -196,7 +196,7 @@ conversations about software, artificial intelligence, and entrepreneurship.
 <br>
 
 [Portfolio](https://rayeesa-portfolio-xhyf.vercel.app/) &nbsp;·&nbsp;
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rayeesa-mahmood/ ) &nbsp;·&nbsp;
+[LinkedIn]([[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rayeesa-mahmood/)](https://www.linkedin.com/in/rayeesa-mahmood/) &nbsp;·&nbsp;
 [Email](mailto:rayeesamhamood8098@gmail.com)
 
 <br><br>
