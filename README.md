@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=17131C&text=Rayeesa%20Mahmood&fontSize=45&fontColor=F5F3F7&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Founder%20of%20Bizzapt%20Enterprises&descSize=17&descAlignY=61&descColor=C4B8CB" alt=" Rayeesa Mahmood — Web Developer and Co-Founder of Bizzapt Enterprises" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=17131C&text=Rayeesa%20Mahmood&fontSize=45&fontColor=F5F3F7&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Founder%20of%20Bizzapt%20Enterprises&descSize=17&descAlignY=61&descColor=C4B8CB" alt=" Rayeesa Mahmood — Web Developer and AI enthusiast" />
 
 <br>
 
