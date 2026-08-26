@@ -32,7 +32,7 @@ My experience includes frontend and backend development, academic and independen
 projects, and two six-month internships—including a remote internship at
 **Intencode**, where I worked on real-world development projects.
 
-I am also the **Founder of Bizzapt Enterprises**, an initiative through which I
+I am also the **Co-Founder of Bizzapt Enterprises**, an initiative through which I
 am developing practical digital solutions and growing my experience in
 technology, product development, and entrepreneurship.
 
