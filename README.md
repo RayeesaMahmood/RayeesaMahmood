@@ -24,9 +24,8 @@
 
 ## About
 
-I'm a Computer Science Engineer (CGPA 8.77/10, Distinction) based in Hyderabad, India,
-graduating May 2026, working on **multi-agent AI systems applied to healthcare and
-public-good problems**. I have **3 published research papers**, was awarded
+I'm a Computer Science Engineer (CGPA 8.77/10, Distinction) based in Hyderabad, India, working on **multi-agent AI systems applied to healthcare and
+public-good problems**. I have **2 published research papers**, was awarded
 **Best Presenter at ICSDE 2026**, and hold a **Guinness World Records** title as a
 participant in Kanz's officially-adjudicated AI Training Hackathon (14,075 participants,
 Saudi Arabia, 2026).
