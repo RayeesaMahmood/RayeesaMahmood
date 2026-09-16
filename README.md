@@ -4,12 +4,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=17131C&text=Rayeesa%20Mahmood&fontSize=45&fontColor=F5F3F7&fontAlignY=38&desc=AI%20Systems%20Researcher%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=61&descColor=C4B8CB" alt="Rayeesa Mahmood — AI Systems Researcher & Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=17131C&text=Rayeesa%20Mahmood&fontSize=45&fontColor=F5F3F7&fontAlignY=35&animation=fadeIn" alt="Rayeesa Mahmood" />
 
 <br>
 
-I build multi-agent AI systems for real-world problems — healthcare, insurance,
-and environmental monitoring — and publish the research behind them.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C4B8CB&center=true&vCenter=true&width=600&lines=AI+Systems+Researcher;Multi-Agent+Systems+%26+LLMs;Published+Researcher+%C2%B7+3+Papers;Best+Presenter+%C2%B7+ICSDE+2026;Co-Founder%2C+Bizzapt+Enterprises" alt="Typing animation" />
 
 <br>
 
@@ -126,6 +125,16 @@ Built automation scripts cutting manual reporting time ~40%; collaborated in a
 
 <br>
 
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RayeesaMahmood&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+<br>
+
 ## Selected Projects
 
 <table>
@@ -185,6 +194,18 @@ human-agent coordination.
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayeesaMahmood&layout=compact&hide_border=true&bg_color=17131C&title_color=D8B4E2&text_color=C4B8CB" alt="Rayeesa Mahmood's most-used languages">
 
 </div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RayeesaMahmood/RayeesaMahmood/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+<sub>Note: this image only renders once the GitHub Action below has run at least once — see setup instructions.</sub>
 
 <br>
 
