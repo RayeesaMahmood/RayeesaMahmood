@@ -1,22 +1,21 @@
 <!--
-  UI preview for github.com/RayeesaMahmood
-  Replace YOUR_LINKEDIN_URL and YOUR_EMAIL_ADDRESS before publishing.
+  Profile README for github.com/RayeesaMahmood
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=17131C&text=Rayeesa%20Mahmood&fontSize=45&fontColor=F5F3F7&fontAlignY=38&desc=Web%20Developer%20Web Developer and AI enthusiast&descSize=17&descAlignY=61&descColor=C4B8CB" alt=" Rayeesa Mahmood — Web Developer and AI enthusiast" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=17131C&text=Rayeesa%20Mahmood&fontSize=45&fontColor=F5F3F7&fontAlignY=38&desc=AI%20Systems%20Researcher%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=61&descColor=C4B8CB" alt="Rayeesa Mahmood — AI Systems Researcher & Full-Stack Developer" />
 
 <br>
 
-I build practical web applications and continuously expand my expertise  
-across backend development, product engineering, and artificial intelligence.
+I build multi-agent AI systems for real-world problems — healthcare, insurance,
+and environmental monitoring — and publish the research behind them.
 
 <br>
 
-<a href="https://rayeesa-portfolio-xhyf.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-684477?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
+<a href="https://rayeesamahmood.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-684477?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rayeesa-mahmood/"><img src="https://img.shields.io/badge/LINKEDIN-684477?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:rayeesamhamood8098@gmail.com"><img src="https://img.shields.io/badge/EMAIL-684477?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:rayeesamahmood8098@gmail.com"><img src="https://img.shields.io/badge/EMAIL-684477?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -26,18 +25,19 @@ across backend development, product engineering, and artificial intelligence.
 
 ## About
 
-I am a Computer Science graduate and web developer based in Hyderabad, India.
+I'm a Computer Science Engineer (CGPA 8.77/10, Distinction) based in Hyderabad, India,
+graduating May 2026, working on **multi-agent AI systems applied to healthcare and
+public-good problems**. I have **3 published research papers**, was awarded
+**Best Presenter at ICSDE 2026**, and hold a **Guinness World Records** title as a
+participant in Kanz's officially-adjudicated AI Training Hackathon (14,075 participants,
+Saudi Arabia, 2026).
 
-My experience includes frontend and backend development, academic and independent
-projects, and two six-month internships—including a remote internship at
-**Intencode**, where I worked on real-world development projects.
+Alongside the research, I co-founded and lead **Bizzapt Enterprises**, a student-run
+web design and development venture, and led AI/Python training reaching 100+ students
+as Technical Head of CodeWave Hub Community.
 
-I am also the **Co-Founder of Bizzapt Enterprises**, an initiative through which I
-am developing practical digital solutions and growing my experience in
-technology, product development, and entrepreneurship.
-
-My primary programming language is **Java**. I also work with JavaScript, Python,
-HTML, CSS, and MySQL.
+My core stack is **Python** for AI/agent systems, with React, Node.js, and Firebase
+for the applications I build around them.
 
 <br>
 
@@ -47,20 +47,20 @@ HTML, CSS, and MySQL.
 <tr>
 <td width="50%" valign="top">
 
-**Engineering**
+**Research**
 
-- Java and backend development
-- Application architecture
-- Database design
+- Multi-agent AI systems & coordination
+- LLMs, prompt engineering, applied NLP
+- AI for healthcare & public-good systems
 
 </td>
 <td width="50%" valign="top">
 
-**Growth**
+**Building**
 
-- Python and artificial intelligence
-- Product development
-- Bizzapt Enterprises
+- Bizzapt Enterprises — Co-Founder & Lead Developer
+- Full-stack product engineering (React, Firebase)
+- UI/UX design (Figma, Adobe XD)
 
 </td>
 </tr>
@@ -68,28 +68,40 @@ HTML, CSS, and MySQL.
 
 <br>
 
+## Research & Publications
+
+| Paper | Venue |
+|:--|:--|
+| [AI-Agent–Integrated Framework for Optimizing Administrative Workflows Across Clinical and Health Insurance Systems](https://doi.org/10.6084/m9.figshare.32041392) | 2026 · **Best Presenter, ICSDE 2026** |
+| [RayCare: AI-Enabled Hospital Queue Management System](https://doi.org/10.6084/m9.figshare.30545999) | ORCHIDS International Conference |
+| [Multi-Agent Framework for Real-Time AQI Monitoring and Personalised Health Advice](https://doi.org/10.6084/m9.figshare.30933533) | International Conference on Emerging Technologies |
+
+<br>
+
 ## Experience
 
-### Founder · Bizzapt Enterprises
+### Technical Head · CodeWave Hub Community
+<sub>FEB 2023 – JUL 2025</sub>
 
-<sub>PRESENT</sub>
+Designed and led a Python/AI training program reaching 100+ students across 3 batches;
+co-organized 2 state-level HackPrix hackathons (50+ teams, ~1,500 students).
 
-Developing the technical and product foundations of an emerging business while
-building experience in planning, decision-making, and project execution.
+### Co-Founder & Lead Developer · Bizzapt Enterprises
+<sub>2024 – PRESENT</sub>
 
-### Web Development Intern · Intencode
+Leading the technical and product foundation of a student-run web design venture —
+brand identity, full-stack builds, and client delivery, end-to-end.
 
-<sub>SIX-MONTH REMOTE INTERNSHIP</sub>
+### Full-Stack Development Intern · PANTECH
+<sub>6-MONTH INTERNSHIP</sub>
 
-Worked on real-world projects and strengthened my practical development,
-collaboration, and problem-solving skills.
+Contributed to full-stack feature development and deployment.
 
-### Web Development Intern · College Programme
+### Web Development & Python Intern · IntenCode
+<sub>6-MONTH REMOTE INTERNSHIP</sub>
 
-<sub>SIX-MONTH INTERNSHIP</sub>
-
-Applied programming and web-development concepts while building functional
-applications in a practical environment.
+Built automation scripts cutting manual reporting time ~40%; collaborated in a
+5-person Agile team on client sprint deliverables.
 
 <br>
 
@@ -97,7 +109,7 @@ applications in a practical environment.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql,git,github,vscode&theme=dark&perline=10" alt="Java, Python, C, JavaScript, HTML, CSS, MySQL, Git, GitHub and Visual Studio Code">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,firebase,html,css,mysql,git,github,figma&theme=dark&perline=12" alt="Python, Java, JavaScript, React, Node.js, Firebase, HTML, CSS, MySQL, Git, GitHub, Figma">
 
 </div>
 
@@ -105,12 +117,12 @@ applications in a practical environment.
 
 | Area | Technologies |
 |:--|:--|
-| **Primary language** | Java |
-| **Programming** | JavaScript, Python, C |
-| **Web development** | HTML, CSS, JavaScript |
-| **Database** | MySQL |
-| **Tools** | Git, GitHub, Visual Studio Code |
-| **Interests** | Backend Engineering, Artificial Intelligence, Product Development |
+| **AI & Machine Learning** | Multi-Agent Systems, LLMs, Prompt Engineering, NLP |
+| **Core languages** | Python, Java, JavaScript, C, SQL |
+| **Web & Systems** | React, Node.js, Flask, REST APIs, HTML/CSS |
+| **Data** | Firebase, Firestore, MySQL |
+| **Design** | Figma, Adobe XD, UI/UX |
+| **Tools** | Git, GitHub, VS Code, Vercel, Netlify |
 
 <br>
 
@@ -120,44 +132,44 @@ applications in a practical environment.
 <tr>
 <td width="50%" valign="top">
 
-### Bizzapt Enterprises
+### RayCare → AI-Agent Framework
 
-The technical foundation of my entrepreneurial journey, focused on translating
-ideas into useful and thoughtfully developed digital solutions.
+Real-time hospital queue system extended into a full multi-agent architecture
+for clinical & insurance workflows. Published; Best Presenter, ICSDE 2026.
 
-[`View repository →`](https://github.com/RayeesaMahmood/Bizzapt-Enterprises)
+[`View repository →`](https://github.com/RayeesaMahmood/RayCare)
 
 </td>
 <td width="50%" valign="top">
 
-### RayCare
+### Bizzapt Enterprises
 
-A hospital management system developed to support organized and accessible
-healthcare operations.
+Brand identity and website for the student-run venture I co-founded and lead,
+designed and shipped end-to-end.
 
-[`View repository →`](https://github.com/RayeesaMahmood/RayCare)
+[`View repository →`](https://github.com/RayeesaMahmood/Bizzapt-Enterprises)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### E-Commerce Project
+### Multi-Agent AQI Monitoring
 
-A web-based shopping experience created to apply frontend-development concepts
-and user-focused design principles.
+Specialized agents for sensing, interpretation, and personalized health advice,
+fusing sensor, satellite, and public air-quality data.
 
-[`View repository →`](https://github.com/RayeesaMahmood/Ecommerece-)
+[`View repository →`](#)
 
 </td>
 <td width="50%" valign="top">
 
-### HackPrix 2025
+### AuraOS — AI Operating Layer
 
-An innovation-focused project developed through technical exploration,
-collaboration, and problem-solving.
+Voice- and gesture-controlled interface layer exploring multimodal
+human-agent coordination.
 
-[`View repository →`](https://github.com/RayeesaMahmood/HackPrix2025)
+[`View repository →`](#)
 
 </td>
 </tr>
@@ -180,24 +192,24 @@ collaboration, and problem-solving.
 
 ## Professional Direction
 
-I am working toward becoming a well-rounded software developer who can understand
-real problems, make thoughtful technical decisions, and build reliable products
-that create meaningful value.
+I'm working toward a research career in multi-agent AI systems — studying how
+autonomous agents coordinate, communicate uncertainty, and defer to humans in
+institutions that were never designed for machine coordination in the first place.
 
-I am open to development opportunities, technical collaborations, and
-conversations about software, artificial intelligence, and entrepreneurship.
+Open to research collaborations and conversations about AI, healthcare systems,
+and entrepreneurship.
 
 <br>
 
 <div align="center">
 
-### Build thoughtfully. Learn continuously. Create with purpose.
+### Research rigorously. Build thoughtfully. Create with purpose.
 
 <br>
 
-[Portfolio](https://rayeesa-portfolio-xhyf.vercel.app/) &nbsp;·&nbsp;
-[LinkedIn]([[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rayeesa-mahmood/)](https://www.linkedin.com/in/rayeesa-mahmood/) &nbsp;·&nbsp;
-[Email](mailto:rayeesamhamood8098@gmail.com)
+[Portfolio](https://rayeesamahmood.github.io/PORTFOLIO/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/rayeesa-mahmood/) &nbsp;·&nbsp;
+[Email](mailto:rayeesamahmood8098@gmail.com)
 
 <br><br>
 
